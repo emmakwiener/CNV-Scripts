@@ -8,7 +8,7 @@ This script was used as part of the Manta QC filtering to remove variants that h
 
 ## ExHet_filtering.py
 
-This script was used to remove variants that had excessive heterozygosity scores <1 x1015 
+This script was used to remove variants that had excessive heterozygosity scores <1 x10e-15 
 
 ## Manta.config
 
