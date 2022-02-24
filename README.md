@@ -1,6 +1,6 @@
 # CNV Variant set and Scripts
 
-This reposititory contains the Intersection varaint call set data as well as custom scripts. Scripts include those that were written to run Manta and to solve specific problems or specifc requirements that arose during CNV discovery and quality control.
+This repository contains the Intersection variant call set data as well as custom scripts. Scripts include those that were written to run Manta and to solve specific problems or specifc requirements that arose during CNV discovery and quality control.
 
 ## AF0.py
 
