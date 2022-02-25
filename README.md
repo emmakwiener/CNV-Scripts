@@ -29,3 +29,7 @@ This script was used at multiple stages of execution of Genome STRiP, whenever a
 ## remove_stutter.py
 
 This was a script used to remove duplicate sites that were produced during SVgenotyping due to a issue encountered wihen running Genome STRiP SVGenotyper. 
+
+## Intersection Variant Dataset
+
+The intersecting variant call set comprised of 9001 variants called by both Manta and Geenome STRiP
