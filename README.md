@@ -32,4 +32,4 @@ This was a script used to remove duplicate sites that were produced during SVgen
 
 ## Intersection Variant Dataset
 
-The intersecting variant call set comprised of 9001 variants called by both Manta and Geenome STRiP
+The intersecting variant call set comprised of 9001 variants called by both Manta and Genome STRiP
